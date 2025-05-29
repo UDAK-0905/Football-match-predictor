@@ -23,6 +23,7 @@ When you enter teams in the app, it predicts the match outcome based on learned 
 #### Clone the repository:
 
 git clone https://github.com/yourusername/Football-match-predictor.git
+
 cd Football-match-predictor
 
 #### Install dependencies:
