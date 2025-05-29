@@ -4,7 +4,7 @@ This project predicts the outcome of football matches (Home Win, Draw, Away Win)
 
 ## Dataset
 
-The dataset used contains match details such as teams, scores, and dates. You can download it from [English Premier League results].
+The dataset used contains match details such as teams, scores, and dates. You can download it from [(https://www.kaggle.com/datasets/irkaal/english-premier-league-results?resource=download)].
 
 ## Features
 
