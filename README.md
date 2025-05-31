@@ -34,6 +34,9 @@ pip install -r requirements.txt
 streamlit run app.py
 #### Or access the live app [here](https://football-match-predictor-hs2d4kprdjaqhpzatygxhk.streamlit.app/).
 
+![image](https://github.com/user-attachments/assets/cea7c71a-d132-4497-a54e-6a229bb676e8)
+
+
 ### 📊 Dataset
 #### The model uses historical match data with features like:
 
